@@ -1,5 +1,5 @@
 
-#drumkit-game
+# drumkit-game
 ---
 
 
@@ -12,11 +12,11 @@ I Made a game out of [Javascript 30 first video tutorial](https://youtu.be/VuN8q
 
 
 
-###How the song animation works:
+### How the song animation works:
 
 The `music` array is looped with a setTimeout function.
 
-###The `music` array:
+### The `music` array:
 
 It contains sub-arrays, each sub-array represents one music note. The animation above is represented by the following `music` array:
 
