@@ -35,10 +35,10 @@ const music = [
 ];
 ```
 
-Where:
-    - music[0] is a string of the keyboard key;
-    - music[1] is the keycode for music[0];
-    - music[2]is the delay for each animation from page restart;
+* Where:
+    - `music[0]` is a string of the keyboard key;
+    - `music[1]` is the keycode for music[0];
+    - `music[2]`is the delay for each animation from page restart;
 
 Feel free to create your own music and become a Rock Star!
 
